@@ -268,3 +268,10 @@ Do **not** allow your computer to auto-update during term. Inevitably, large OS 
 - A degree of 'plagiarism' is acceptable in **code** since that's how we learn; however, mindless copy+pasting of [Stack Overflow](https://stackoverflow.com) code leads to sphagetti and, often, incorrect results or difficult-to-squash bugs. Think of it like paraphrasing.
 - To distinguish between plagiarism and paraphrasing [here's a nice tutorial](https://libguides.sjsu.edu/plagiarism/home-page) that you can also use to help you with your 'regular' writing.
 .
+Plain text
+Header levels: #, ##, ###, etc.
+Emphasis/Italics: _italics_, **bold**.
+Lists: - and 1..
+Links: [link text](url).
+Images: ![Alt text](url).
+Code: `...`.
